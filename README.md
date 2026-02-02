@@ -1,4 +1,4 @@
-<img width="238" height="150" alt="Screenshot 2026-02-01 200753" src="https://github.com/user-attachments/assets/f1d761e4-e6d8-43a1-9b12-ee0ebaeeef53" /># Smart-Attendance-System-DSA-Java
+# Smart-Attendance-System-DSA-Java
 In this repository i have made Attendance management project
 # Smart Attendance System (Java)
 
